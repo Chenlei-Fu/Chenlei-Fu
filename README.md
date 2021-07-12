@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a SDE intern on Visa, Inc.
+- 🔭 I’m currently working as a SDE intern at Visa, Inc.
 - 🌱 I’m currently learning back-end development and distributed system
 - 📍 Xiamen, China -> IL, US
 - 💬 Ask me about anything
